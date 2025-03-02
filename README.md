@@ -64,13 +64,13 @@ To ensure high-quality input data, several preprocessing steps were applied:
 - Recommended: A high-performance GPU for faster training.
 
 ## Repository Structure
-'''
+```
 📂 project-root
  ├── Golem_1DCNN.ipynb    # Jupyter notebooks with 1D CNN
  ├── Golem_2DCNN.pt       # Python file with 2D CNN
  ├── presentation.pdf     # Visual documentation of the project
  └── README.md            # Project documentation
- '''
+ ```
 
 ## Future Improvements
 
