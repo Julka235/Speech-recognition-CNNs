@@ -66,7 +66,7 @@ To ensure high-quality input data, several preprocessing steps were applied:
 ## Repository Structure
 ```
 📂 project-root
- ├── Golem_1DCNN.ipynb    # Jupyter notebooks with 1D CNN
+ ├── Golem_1DCNN.ipynb    # Jupyter notebook with 1D CNN
  ├── Golem_2DCNN.pt       # Python file with 2D CNN
  ├── presentation.pdf     # Visual documentation of the project
  └── README.md            # Project documentation
@@ -77,8 +77,4 @@ To ensure high-quality input data, several preprocessing steps were applied:
 - Experimenting with Recurrent Neural Networks (RNNs) and Transformer models.
 - Implementing data augmentation techniques for better generalization.
 - Enhancing real-time speech recognition capabilities.
-
-Contact
-
-For any inquiries or collaborations, feel free to reach out to the contributors. 🚀
 
